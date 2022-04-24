@@ -3,8 +3,6 @@
     "type": "laravel-module",
     "version": "1.0.0",
     "minimum-stability": "dev",
-    "prefer-stable": true,
-"prefer-lowest": false,
     "license": "MIT",
     "description": "test module",
     "authors": [{
