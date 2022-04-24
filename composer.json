@@ -2,9 +2,9 @@
     "name": "amroboney/boney-module",
     "type": "laravel-module",
     "version": "1.0.0",
-    "minimum-stability": "dev-main",
+    "minimum-stability": "dev",
     "license": "MIT",
-    "description": "",
+    "description": "test module",
     "authors": [{
         "name": "Amro Adil",
         "email": "amroboney@gmail.com"
