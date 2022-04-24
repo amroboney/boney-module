@@ -1,5 +1,5 @@
 {
-    "name": "amroboney/boney-module-installer",
+    "name": "amroboney/boney-module",
     "type": "laravel-module",
     "version": "1.0.0",
     "minimum-stability": "dev",
