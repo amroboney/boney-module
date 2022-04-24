@@ -3,7 +3,6 @@
     "type": "laravel-module",
     "version": "1.0.0",
     "minimum-stability": "dev",
-    "prefer-stable": true
     "description": "",
     "authors": [{
         "name": "Amro Adil",
