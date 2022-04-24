@@ -1,6 +1,7 @@
 {
     "name": "amroboney/boney-module",
     "type": "laravel-module",
+    "version": "1.0.0",
     "description": "",
     "authors": [{
         "name": "Amro Adil",
