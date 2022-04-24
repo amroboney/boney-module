@@ -1,7 +1,6 @@
 {
     "name": "amroboney/boney-module",
     "type": "laravel-module",
-    "version": "1.0.0",
     "minimum-stability": "dev",
     "license": "MIT",
     "description": "test module",
