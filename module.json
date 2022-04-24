@@ -1,0 +1,13 @@
+{
+    "name": "Boney",
+    "alias": "boney",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Boney\\Providers\\BoneyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
